@@ -32,14 +32,6 @@ To contribute to the development of Route-Finisher, follow these steps:
 5. Commit and push your changes to your forked repository.
 6. Submit a pull request, detailing the changes you have made.
 
-## License
-
-Route-Finisher is released under the [insert license name]. See the [LICENSE](link-to-license-file) file for more information.
-
-## Contact
-
-For any questions or inquiries, please contact the Route-Finisher team at [insert contact email].
-
 We welcome any feedback or suggestions for improving the app. Thank you for using Route-Finisher!
 <img width="745" alt="finisher" src="https://github.com/BaburshahSayer/route-finisher/assets/92582416/4877c5f2-3cae-489d-8e6e-2134aa2d5c12">
 
