@@ -42,4 +42,4 @@ For any questions or inquiries, please contact the Route-Finisher team at [inser
 
 We welcome any feedback or suggestions for improving the app. Thank you for using Route-Finisher!
 
-![Prototype](./finisher.png).
+![Prototype](./Desktop/finisher.png).
