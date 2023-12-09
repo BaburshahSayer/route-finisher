@@ -41,5 +41,5 @@ Route-Finisher is released under the [insert license name]. See the [LICENSE](li
 For any questions or inquiries, please contact the Route-Finisher team at [insert contact email].
 
 We welcome any feedback or suggestions for improving the app. Thank you for using Route-Finisher!
+<img width="745" alt="finisher" src="https://github.com/BaburshahSayer/route-finisher/assets/92582416/4877c5f2-3cae-489d-8e6e-2134aa2d5c12">
 
-![Prototype](./finisher.png).
